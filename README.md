@@ -11,4 +11,4 @@ Es el lugar donde Git almacena los archivos y su historial de cambios.  Reposito
 | `git add .`               | Agrega todos los cambios al área de preparación (staging).         |
 | `git commit -m "mensaje"` | Guarda los cambios en el historial del repositorio con un mensaje. |
 | `git push origin main`    | Envía los commits al repositorio remoto en GitHub.                 |
-                    
+|   git pull --rebase       | Trae los cambios del repositorio remoto (GitHub).                  |
